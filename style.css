@@ -1,0 +1,20 @@
+body {
+    background-color: rgb(185, 209, 204);
+  }
+  h1{
+    text-align: center;
+    color: bisque;
+    font-family: 'Times New Roman', Times, serif;
+  }
+  .button1{
+    display: table;
+  }
+  .button1 button{
+    display: table-cell;
+    width: 25%;
+    height: 60px;
+    background-color: rgba(1, 41, 32, 0.589);
+    border: 2px;
+    border-style:groove;
+
+  }
